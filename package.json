@@ -11,5 +11,9 @@
     "url": "Node Training"
   },
   "author": "Gabriel Barbosa de Lima",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5"
+  }
 }
